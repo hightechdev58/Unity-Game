@@ -57,12 +57,3 @@ Please see [Requirements](com.unity.renderstreaming/Documentation~/index.md#requ
 
 Please read [this page](com.unity.renderstreaming/Documentation~/faq.md) and [Unity Forum](https://forum.unity.com/forums/unity-render-streaming.413/).
 
-## Contributors
-
-- [@karasusan](https://github.com/karasusan)
-- [@hiroki-o](https://github.com/hiroki-o)
-- [@flame99999](https://github.com/flame99999)
-- [@koseyile](https://github.com/koseyile)
-- [@sindharta](https://github.com/sindharta)
-- [@kannan-xiao4](https://github.com/kannan-xiao4)
-- [@samuel-tranchet](https://github.com/samuel-tranchet)
